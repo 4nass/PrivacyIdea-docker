@@ -1,7 +1,5 @@
 FROM python:3.8.10-buster
 
-LABEL maintainer="Sida Say <sida.say@khalibre.com>"
-
 ENV PI_SKIP_BOOTSTRAP=false \
     DB_VENDOR=sqlite \
     PI_VERSION=3.5.2

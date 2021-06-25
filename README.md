@@ -21,7 +21,7 @@ Run it with
 make runserver
 ```
 
-This will download the existing privacyIDEA container from the Docker hub https://registry.hub.docker.com/u/khalibre/pricvacy/ and run it.
+This will download the existing privacyIDEA container from the Docker hub https://registry.hub.docker.com/u/an455/pricvacy/ and run it.
 
 Login to http://localhost:5000 with "admin"/"privacyidea".
 
